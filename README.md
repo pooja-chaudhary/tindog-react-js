@@ -1,7 +1,7 @@
 # tindog-react-js
 This website can be used to buy your favorite  Dog and  Dog's related plans and enquiry. 
 
-### Play Online: [click here](https://pooja-chaudhary.github.io/tindog-react-js/)
+### Visit online: [click here](https://pooja-chaudhary.github.io/tindog-react-js/)
 
 ```
 Copyright (c) 2022 Pooja Chaudhary
