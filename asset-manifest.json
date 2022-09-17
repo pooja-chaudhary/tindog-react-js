@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.4684c5cb.js",
-    "static/media/iphone6.png": "/static/media/iphone6.124c43879471b6178749.png",
-    "static/media/lady-img.jpg": "/static/media/lady-img.8ee2d8f8e7a0264be864.jpg",
-    "static/media/tnw.png": "/static/media/tnw.df4383d7da108661153d.png",
-    "static/media/dog-img.jpg": "/static/media/dog-img.55f952d2e1c9a2132e59.jpg",
-    "static/media/mashable.png": "/static/media/mashable.a2876b348f9b9411144d.png",
-    "static/media/bizinsider.png": "/static/media/bizinsider.f236711d674a660bec6e.png",
-    "static/media/TechCrunch.png": "/static/media/TechCrunch.ce0e5471891d6de27c36.png",
-    "index.html": "/index.html",
-    "main.4684c5cb.js.map": "/static/js/main.4684c5cb.js.map"
+    "main.js": "/tindog-react-js/static/js/main.faba629c.js",
+    "static/media/iphone6.png": "/tindog-react-js/static/media/iphone6.124c43879471b6178749.png",
+    "static/media/lady-img.jpg": "/tindog-react-js/static/media/lady-img.8ee2d8f8e7a0264be864.jpg",
+    "static/media/tnw.png": "/tindog-react-js/static/media/tnw.df4383d7da108661153d.png",
+    "static/media/dog-img.jpg": "/tindog-react-js/static/media/dog-img.55f952d2e1c9a2132e59.jpg",
+    "static/media/mashable.png": "/tindog-react-js/static/media/mashable.a2876b348f9b9411144d.png",
+    "static/media/bizinsider.png": "/tindog-react-js/static/media/bizinsider.f236711d674a660bec6e.png",
+    "static/media/TechCrunch.png": "/tindog-react-js/static/media/TechCrunch.ce0e5471891d6de27c36.png",
+    "index.html": "/tindog-react-js/index.html",
+    "main.faba629c.js.map": "/tindog-react-js/static/js/main.faba629c.js.map"
   },
   "entrypoints": [
-    "static/js/main.4684c5cb.js"
+    "static/js/main.faba629c.js"
   ]
 }
